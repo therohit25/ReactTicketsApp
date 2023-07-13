@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ReactTicketsApp/precache-manifest.0aa4bd53371cbc56cf1ff2856f743168.js"
+  "/ReactTicketsApp/precache-manifest.59f3b619038a1a2ea6f47abedf17a25a.js"
 );
 
 workbox.clientsClaim();
